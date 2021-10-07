@@ -1,2 +1,2 @@
-# ChaTa-
+# ChaTa+
 Dataset containing real charts.
